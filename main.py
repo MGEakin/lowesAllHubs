@@ -4,7 +4,7 @@
 # pip install robotframework
 # pip install robotframework-seleniumlibrary
 # pip install robotframework-pabot     ###For parallel testing
-# pip install pysftp
+# pip install --upgrade robotframework-sshlibrary
 # pip install minio
 # pip install oic
 # can use import filecmp to compare files
